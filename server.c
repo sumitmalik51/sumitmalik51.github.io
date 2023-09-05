@@ -5,8 +5,7 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>
-#include <stdint.h>
-
+#include <stdint.h>  // Add this line to include <stdint.h>
 
 #define PORT 9090
 
